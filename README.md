@@ -31,13 +31,19 @@ Train the model.
 You can view the list of authors in the [AUTHORS](/AUTHORS) file.
 
 ## Contact
-For any questions, please contact us at [add email here].
+Corresponding author: Matthew J. Stasiewicz<br>
+103 Agricultural Bioprocess Lab<br>
+1302 W. Pennsylvania<br>
+Urbana, IL, 1361801<br>
+USA<br>
++1-217-265-0963<br>
+[mstasie@illinois.edu](mailto:mstasie@illinois.edu)
 
 ## Citation
-Include citation here.
+TO DO: Update following publication
 
 ## License
-This project is licensed under the [Name of license]. Please see the [LICENSE](/LICENSE) file for details.
+This project's code is licensed under the GNU General Public License v3.0 and dataset is licensed the Creative Commons Attribution Share Alike 4.0 International license. Please see the [LICENSE.code](/LICENSE.code) and [LICENSE.dataset](/LICENSE.dataset) files for details.
 
 ## Acknowledgements
 We would like to extend our heartfelt thanks to the following individuals who have contributed to this project.
