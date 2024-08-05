@@ -2,33 +2,33 @@
 
 ## Overview
 ### Introduction
-Introduce the project and give a description.
+The Supply Chain Risk Model (SCRM) is a tool that was designed to evaluate how practices applied under produce safety systems could affect microbial contamination, and, our outcome measure of risk: the risk of a test being positive. Produce supply chains can generally be described as having five main process stages from farm to fork: Primary Raw Material Production, Harvest, Processing, Presentation to Consumer (e.g., retail, restaurant, etc.) and Consumer Handling. Model steps can be added to represent each of these supply chain stages, where any of the following model step types could be selected: increase or reduction, contamination or removal, product test, or risk output test. Each step has a given probability of occurrence.
 
-Include a link to the website if one is available.
+Our initial test case for this model was a leafy green supply chain contaminated with Shiga-toxin-producing E. coli (STEC). The parameters of this supply chain are described in the paper and details around the parametrized values and distributions can also be found in the Supplemental Materials. We described two contamination scenarios (high and low variability) and two interventions added to the baseline system (improved process controls and additional product testing) to give a robust comparison between contamination variability and the tradeoffs between food safety interventions under these contamination scenarios. 
 
-### Results
-Explain the results/findings of the project.
-
-It's a good idea to include figures here to visualize the results.
+To facilitate use of our model the SCRM-Lite was developed as an interactive webpage for users to explore the results of the scenarios described in our leafy green supply chain scenario. Here you will find a description of how to run the SCRM-Lite to visualize the results presented in the manuscript.
 
 ## Usage
 ### Setup
-Mention the environment the code was run on during development and testing as well as any dependencies that are needed.
+This app was developed and initialized in R 4.3.3 using Shiny. The packages which are required to run this app include: shiny, shinyjs, bslib, shinyWidgets, and ggplot2
 
 ### Running
-Explain in detailed steps how to run the code in order to reproduce the results shown above in the results section.
+Below describes how to run the SCRM-Lite. You will need to access the files in the SCRM-Lite folder of this GitHub.
 
 #### Step 1.
-Download all the input data.
+Open the R Project file titled "SCRM-Lite"
 
 #### Step 2.
-Generate the values for training the model.
+Open the R file titled "app"
 
 #### Step 3.
-Train the model.
+Install the required packages (if needed). RStudio can detect this.
+
+### Step 4.
+Click "Run App" (top right corner)
 
 ## Authors
-You can view the list of authors in the [AUTHORS](/AUTHORS) file.
+Gabriella Pinto, Gustavo A. Reyes, Cecil Barnett-Neefs, Martin Wiedmann
 
 ## Contact
 Corresponding author: Matthew J. Stasiewicz<br>
@@ -40,21 +40,12 @@ USA<br>
 [mstasie@illinois.edu](mailto:mstasie@illinois.edu)
 
 ## Citation
-TO DO: Update following publication
-
-## License
-This project's code is licensed under the GNU General Public License v3.0 and dataset is licensed the Creative Commons Attribution Share Alike 4.0 International license. Please see the [LICENSE.code](/LICENSE.code) and [LICENSE.dataset](/LICENSE.dataset) files for details.
+TBD
 
 ## Acknowledgements
 We would like to extend our heartfelt thanks to the following individuals who have contributed to this project.
-* Full Name
-* Full Name
-* ...
-
-In addition to the contributors listed above, we would like to recognize the exceptional contributions of the following individuals:
-* Full Name - For significant contributions or leadership.
-* Full Name - For valuable contributions and ongoing support.
-* ...
+* YeonJin Jung
+* Chenhao Qian
 
 ## Funding
-Include the source of project funding here.
+Funding for the project was made possible by The Center for Produce Safety project 2023CPS08. Any opinions, findings, conclusions, or recommendations expressed in this publication are those of the authors and do not necessarily reflect the view of The Center for Produce Safety. (https://www.centerforproducesafety.org/).
