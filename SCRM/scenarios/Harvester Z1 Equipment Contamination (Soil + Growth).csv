@@ -1,0 +1,9 @@
+﻿model_step,microbial_process,p_occurrence,distribution,contamination_basis,parameter_1,parameter_2,parameter_3
+Initial Contamination,Contamination/Removal,8.165,Normal (log10),per g,-2.65,0.8,NA
+Second Contamination,Contamination/Removal,8.165,Normal (log10),per g,-2.9,0,NA
+Primary Raw Material Production,Increase/Reduction,100,Normal (log10),NA,0,0,NA
+Harvesting,Increase/Reduction,100,Normal (log10),NA,0,0,NA
+Processing,Increase/Reduction,100,Normal (log10),NA,-2.25,0.17,NA
+Presentation to Consumer (Retail),Increase/Reduction,100,Normal (log10),NA,-0.92,0.21,NA
+Risk Output Testing,Risk Output Test,100,NA,NA,300,1,1
+Consumer Handling,Increase/Reduction,100,Normal (log10),NA,-0.57,0.38,NA
