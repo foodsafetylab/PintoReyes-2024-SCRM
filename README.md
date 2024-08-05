@@ -43,7 +43,7 @@ Low Variability; Some, Improved  | N/A, combination of practices
 
 
 ## Authors
-Gabriella Pinto, Gustavo A. Reyes, Cecil Barnett-Neefs, Martin Wiedmann, Matthew J. Stasiewicz
+You can view the list of authors in the [AUTHORS](/AUTHORS) file.
 
 ## Contact
 Corresponding author: Matthew J. Stasiewicz<br>
@@ -56,11 +56,6 @@ USA<br>
 
 ## Citation
 TBD
-
-## Acknowledgements
-We would like to extend our heartfelt thanks to the following individuals who have contributed to this project.
-* YeonJin Jung
-* Chenhao Qian
 
 ## Funding
 Funding for the project was made possible by The Center for Produce Safety project 2023CPS08. Any opinions, findings, conclusions, or recommendations expressed in this publication are those of the authors and do not necessarily reflect the view of The Center for Produce Safety. (https://www.centerforproducesafety.org/).
