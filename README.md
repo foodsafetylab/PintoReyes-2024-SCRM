@@ -91,10 +91,10 @@ You can check the "beep" box if you would like your computer to make a sound onc
 #### Step 9.
 Click "Run". Depending on the scenario, you will be notified that there are step(s) present after at risk output test at retail (current model output). This was coded for future use of the model to force the user to check for errors. We parametrized a Consumer Handling stage in our manuscript, but this does not currently affect our decided location of the risk output test. However, these values are still pulled into our baseline. One could simply uncheck the Consumer Handling model step in the SCRM Shiny app to avoid this pop up error, or simply click "Continue." 
 
-A small pop-up will appear at the bottom right of the app once the model has begun running. This pop up will let you know the model is running and provide a time stamp for the start.
+A small pop-up will appear at the bottom right of the app once the model has began running. This pop up will let you know the model is running and provide a time stamp for the start.
 
 ### Step 10.
-After successfully running the model, a second small pop-up will appear at the bottom right of the app to notify you the model has completed running. Your results will appear in all 3 tables.
+After successfully running the model, a second small pop-up will appear at the bottom right of the app to notify you the model has completed running and a time stamp for which it finished. Your results will appear in all 3 tables.
 
 ### Step 11.
 You can save results from a single run by hitting "Download Results" under each table, or by loading them into slots (equivalent to table rows) so that they appear on the Results Comparisons tab. If you are running multiple scenarios, we suggest saving the results to slots after running each scenario. You can save these by selecting your desired slot and clicking the "Save to Slot" button. This will populate your results into two tables on the Results Comparisons tab.
