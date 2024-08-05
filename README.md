@@ -4,15 +4,17 @@
 ### Introduction
 The Supply Chain Risk Model (SCRM) is a tool that was designed to evaluate how practices applied under produce safety systems could affect microbial contamination, and, our outcome measure of risk: the risk of a test being positive. Produce supply chains can generally be described as having five main process stages from farm to fork: Primary Raw Material Production, Harvest, Processing, Presentation to Consumer (e.g., retail, restaurant, etc.) and Consumer Handling. Model steps can be added to represent each of these supply chain stages, where any of the following model step types could be selected: increase or reduction, contamination or removal, product test, or risk output test. Each step has a given probability of occurrence.
 
-Our initial test case for this model was a leafy green supply chain contaminated with Shiga-toxin-producing E. coli (STEC). The parameters of this supply chain are described in the paper and details around the parametrized values and distributions can also be found in the Supplemental Materials folder of this GitHub. We described two contamination scenarios (high and low variability) and two interventions added to the baseline system (improved process controls and additional product testing) to give a robust comparison between contamination variability and the tradeoffs between food safety interventions under these contamination scenarios. 
+Our initial test case for this model was a leafy green supply chain contaminated with Shiga-toxin-producing *E. coli* (STEC). The parameters of this supply chain are described in the paper and details around the parametrized values and distributions can also be found in the Supplemental Materials folder of this GitHub. We described two contamination scenarios (high and low variability) and two interventions added to the baseline system (improved process controls and additional product testing) to give a robust comparison between contamination variability and the tradeoffs between food safety interventions under these contamination scenarios. The base code for the SCRM described in the manuscript can be found here under the SCRM folder.
 
 To facilitate use of our model the SCRM-Lite was developed as an interactive webpage for users to explore the results of the scenarios described in our leafy green supply chain scenario. Here you will find a description of how to run the SCRM-Lite to visualize the results presented in the manuscript.
 
+
+
 ## Usage
-### Setup
+### Setup- SCRM-Lite
 This app was developed and initialized in R 4.3.3 using Shiny. The packages which are required to run this app include: shiny, shinyjs, bslib, shinyWidgets, and ggplot2
 
-### Running
+### Running SCRM-Lite
 Below describes how to run the SCRM-Lite. You will need to access the files in the SCRM-Lite folder of this GitHub.
 
 #### Step 1.
