@@ -31,7 +31,9 @@ Click "Run App" (top right corner)
 You will be launched into the SCRM-Lite interactive webpage. There are three slider bars in total: Contamination Event Variability, Additional Product Testing, and Process Wash. The default selection is high variability baseline contamination scenario described in the manuscript. 
 
 Contamination Event Variability options: Low, High
+
 Additional Product Testing options: None, Some
+
 Process Wash options: Standard, Improved
 
 The following selections in the SCRM-Lite tool match the scenarios in the manuscript: 
