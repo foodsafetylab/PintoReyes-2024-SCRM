@@ -73,7 +73,7 @@ You will be launched into the SCRM Shiny app. To load and run the scenarios desc
 
 #### Step 6.
 Select from the list of Preset Scenarios. Preset Scenarios default to the high variability contamination system. To make steps appear hit the "Load Scenario" button. The following table describes the preset scenario as it relates to description and any modifications which should need to be made to reproduce the results: 
-Preset Scenario Name  | Manuscript Scenario | Modifications needed
+Preset Scenario Name  | Modifications Needed | Manuscript Scenario | 
 ------------- | ------------- | -------------
 Baseline |  N/A | High Variability, Baseline
 FPT | N/A |  High Variability, Additional Product Testing
