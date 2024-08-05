@@ -28,18 +28,24 @@ Install the required packages (if needed). RStudio can detect this.
 Click "Run App" (top right corner)
 
 #### Step 5.
-You will be launched into the SCRM-Lite interactive webpage. There are three slider bars in total: Contamination Event Variability, Additional Product Testing, and Process Wash. The default selection is high variability baseline contamination scenario described in the manuscript. The following selections in the SCRM-Lite tool match the scenarios in the manuscript: 
+You will be launched into the SCRM-Lite interactive webpage. There are three slider bars in total: Contamination Event Variability, Additional Product Testing, and Process Wash. The default selection is high variability baseline contamination scenario described in the manuscript. 
+
+Contamination Event Variability options: Low, High
+Additional Product Testing options: None, Some
+Process Wash options: Standard, Improved
+
+The following selections in the SCRM-Lite tool match the scenarios in the manuscript: 
 
 SCRM-Lite Options  | Manuscript Scenario
 ------------- | -------------
-High Variability; None; Standard |  High Variability Baseline
-High Variability; Some, Standard  | High Variability Additional Product Testing
-High Variability; None; Improved |  High Variability Improved Process Controls
-High Variability; Some, Improved  | N/A, combination of practices
-Low Variability; None; Standard |  Low Variability Baseline
-Low Variability; Some, Standard  | Low Variability Additional Product Testing
-Low Variability; None; Improved |  Low Variability Improved Process Controls
-Low Variability; Some, Improved  | N/A, combination of practices
+High; None; Standard |  High Variability Baseline
+High; Some, Standard  | High Variability Additional Product Testing
+High; None; Improved |  High Variability Improved Process Controls
+High; Some, Improved  | N/A, combination of practices
+Low; None; Standard |  Low Variability Baseline
+Low; Some, Standard  | Low Variability Additional Product Testing
+Low; None; Improved |  Low Variability Improved Process Controls
+Low; Some, Improved  | N/A, combination of practices
 
 
 ## Authors
