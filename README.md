@@ -24,10 +24,10 @@ Open the R file titled "app"
 #### Step 3.
 Install the required packages (if needed). RStudio can detect this.
 
-### Step 4.
+#### Step 4.
 Click "Run App" (top right corner)
 
-### Step 5.
+#### Step 5.
 You will be launched into the SCRM-Lite interactive webpage. There are three slider bars in total: Contamination Event Variability, Additional Product Testing, and Process Wash. The default selection is high variability baseline contamination scenario described in the manuscript. The following selections in the SCRM-Lite tool match the scenarios in the manuscript: 
 
 SCRM-Lite Options  | Manuscript Scenario
