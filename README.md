@@ -78,9 +78,9 @@ Preset Scenario Name  | Manuscript Scenario | Modifications needed
 Baseline |  N/A | High Variability, Baseline
 FPT | N/A |  High Variability, Additional Product Testing
 Improved Process Controls |  N/A | High Variability, Improved Process Controls
-Baseline |  Change "Initial Contamination SD to value of 0.2 | Low Variability Baseline
-FPT | Change "Initial Contamination SD to value of 0.2 | Low Variability Additional Product Testing 
-Improved Process Controls | Change "Initial Contamination SD to value of 0.2 | Low Variability Improved Process Controls 
+Baseline |  Change "Initial Contamination" step (Step 01) SD to value of 0.2 | Low Variability Baseline
+FPT | Change "Initial Contamination" step (Step 01) SD to value of 0.2 | Low Variability Additional Product Testing 
+Improved Process Controls | Change "Initial Contamination" step (Step 01) SD to value of 0.2 | Low Variability Improved Process Controls 
 
 #### Step 7.
 The default field mass will = 160,000; the default mass unit will = lb; the default iterations will = 100,000. Leave these defaults to reproduce the results of the manuscript.
