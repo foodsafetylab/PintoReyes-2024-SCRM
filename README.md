@@ -16,10 +16,10 @@ This app was developed and initialized in R 4.3.3 using Shiny. The packages whic
 Below describes how to run the SCRM-Lite. You will need to access the files in the SCRM-Lite folder of this GitHub.
 
 #### Step 1.
-Open the R Project file titled "SCRM-Lite"
+Open the R Project file titled "SCRM-Lite.Rproj"
 
 #### Step 2.
-Open the R file titled "app"
+Open the R file titled "app.R"
 
 #### Step 3.
 Install the required packages (if needed). RStudio can detect this.
@@ -57,10 +57,10 @@ This app was developed and initialized in R 4.3.3 using Shiny. The packages whic
 Below describes how to run the SCRM base code. You will need to access the files in the SCRM folder of this GitHub.
 
 #### Step 1.
-Open the R Project file titled "SCRM-Shiny"
+Open the R Project file titled "SCRM-Shiny.Rproj"
 
 #### Step 2.
-Open the R file titled "app - V2.1"
+Open the R file titled "app - V2.1.R"
 
 #### Step 3.
 Install the required packages (if needed). RStudio can detect this.
@@ -99,7 +99,6 @@ After successfully running the model, a second small pop-up will appear at the b
 ### Step 11.
 You can save results from a single run by hitting "Download Results" under each table, or by loading them into slots (equivalent to table rows) so that they appear on the Results Comparisons tab. If you are running multiple scenarios, we suggest saving the results to slots after running each scenario. You can save these by selecting your desired slot and clicking the "Save to Slot" button. This will populate your results into two tables on the Results Comparisons tab.
 
-
 ## Authors
 You can view the list of authors in the [AUTHORS](/AUTHORS) file.
 
@@ -113,7 +112,10 @@ USA<br>
 [mstasie@illinois.edu](mailto:mstasie@illinois.edu)
 
 ## Citation
-TBD
+TO DO: Update pending publication.
+
+## License
+This project's code is licensed under the GNU General Public License v3.0 and dataset is licensed the Creative Commons Attribution Share Alike 4.0 International license. Please see the [LICENSE.code](/LICENSE.code) and [LICENSE.dataset](/LICENSE.dataset) files for details.
 
 ## Funding
 Funding for the project was made possible by The Center for Produce Safety project 2023CPS08. Any opinions, findings, conclusions, or recommendations expressed in this publication are those of the authors and do not necessarily reflect the view of The Center for Produce Safety. (https://www.centerforproducesafety.org/).
