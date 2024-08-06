@@ -22,7 +22,7 @@ Open the R Project file titled "SCRM-Lite.Rproj"
 Open the R file titled "app.R"
 
 #### Step 3.
-Install the required packages (if needed). RStudio can detect this.
+Install the required packages (if needed). RStudio can detect required packages and automatically install them if needed.
 
 #### Step 4.
 Click "Run App" (top right corner)
@@ -63,7 +63,7 @@ Open the R Project file titled "SCRM-Shiny.Rproj"
 Open the R file titled "app - V2.1.R"
 
 #### Step 3.
-Install the required packages (if needed). RStudio can detect this.
+Install the required packages and RTools 4.3 (if needed). RStudio can detect required packages and automatically install them if needed.
 
 #### Step 4.
 Click "Run App" (top right corner)
