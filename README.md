@@ -112,7 +112,7 @@ USA<br>
 [mstasie@illinois.edu](mailto:mstasie@illinois.edu)
 
 ## Citation
-TO DO: Update pending publication.
+Update pending publication.
 
 ## License
 This project's code is licensed under the GNU General Public License v3.0 and dataset is licensed the Creative Commons Attribution Share Alike 4.0 International license. Please see the [LICENSE.code](/LICENSE.code) and [LICENSE.dataset](/LICENSE.dataset) files for details.
