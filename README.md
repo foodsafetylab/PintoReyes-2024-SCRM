@@ -59,7 +59,7 @@ This app was developed and initialized in R 4.3.3 using Shiny. The packages whic
 Below describes how to run the SCRM base code. You will need to access the files in the [SCRM](SCRM/) folder of this GitHub.
 
 #### Step 1.
-Open the R Project file titled "SCRM-Shiny.Rproj"
+Open the [SCRM-Shiny R Project file](SCRM/SCRM-Shiny.Rproj).
 
 #### Step 2.
 Open the R file titled "app - V2.1.R"
