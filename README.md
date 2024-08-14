@@ -27,7 +27,7 @@ Open the [app R file](SCRM-Lite/app.R).
 Install the required packages (if needed). RStudio can detect required packages and automatically install them if needed.
 
 #### Step 4.
-Click "Run App" (top right corner)
+Click "Run App" (top right corner).
 
 #### Step 5.
 You will be launched into the SCRM-Lite interactive webpage. There are three slider bars in total: Contamination Event Variability, Additional Product Testing, and Process Wash. The default selection is high variability baseline contamination scenario described in the manuscript. 
@@ -68,7 +68,7 @@ Open the R file titled "app - V2.1.R"
 Install the required packages and RTools 4.3 (if needed). RStudio can detect required packages and automatically install them if needed.
 
 #### Step 4.
-Click "Run App" (top right corner)
+Click "Run App" (top right corner).
 
 #### Step 5.
 You will be launched into the SCRM Shiny app. 
