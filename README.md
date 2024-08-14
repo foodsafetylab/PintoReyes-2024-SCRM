@@ -15,7 +15,7 @@ Below you will find a description of (i) how to run the SCRM-Lite to visualize t
 This app was developed and initialized in R 4.3.3 using Shiny. The packages which are required to run this app include: shiny, shinyjs, bslib, shinyWidgets, and ggplot2
 
 ### Running
-Below describes how to run the SCRM-Lite. You will need to access the files in the SCRM-Lite folder of this GitHub.
+Below describes how to run the SCRM-Lite. You will need to access the files in the [SCRM-Lite](SCRM-Lite/) folder of this GitHub.
 
 #### Step 1.
 Open the R Project file titled "SCRM-Lite.Rproj"
@@ -56,7 +56,7 @@ Low; Some, Improved  | N/A, combination of practices
 This app was developed and initialized in R 4.3.3 using Shiny. The packages which are required to run this app include: parallel, lhs, mc2d, bslib, bsicons, shiny, shinyalert, shinyjs, shinyWidgets, DT, and beepr
 
 ### Running
-Below describes how to run the SCRM base code. You will need to access the files in the SCRM folder of this GitHub.
+Below describes how to run the SCRM base code. You will need to access the files in the [SCRM](SCRM/) folder of this GitHub.
 
 #### Step 1.
 Open the R Project file titled "SCRM-Shiny.Rproj"
