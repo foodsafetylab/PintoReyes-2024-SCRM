@@ -18,7 +18,7 @@ This app was developed and initialized in R 4.3.3 using Shiny. The packages whic
 Below describes how to run the SCRM-Lite. You will need to access the files in the [SCRM-Lite](SCRM-Lite/) folder of this GitHub.
 
 #### Step 1.
-Open the R Project file [SCRM-Lite R Project File](SCRM-Lite.Rproj).
+Open the [SCRM-Lite](SCRM-Lite/SCRM-Lite.Rproj) R Project file.
 
 #### Step 2.
 Open the R file titled "app.R"
