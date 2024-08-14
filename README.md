@@ -93,10 +93,10 @@ Click "Run". Depending on the scenario, you will be notified that there are step
 
 A small pop-up will appear at the bottom right of the app once the model has began running. This pop up will let you know the model is running and provide a time stamp for the start.
 
-### Step 10.
+#### Step 10.
 After successfully running the model, a second small pop-up will appear at the bottom right of the app to notify you the model has completed running and a time stamp for which it finished. Your results will appear in 3 results tables at the top of the model tab. The first table summarizes the key results of the model: the overall risk of a positive test, and the number of highest risk lots. The second table shows the number of lots assigned to each risk category. Each iteration represents a simulated lot. This table also shows the overall risk. The third table shows the number of positive tests at retail for each risk category and the total number of positive tests at retail.
 
-### Step 11.
+#### Step 11.
 You can save results from a single run by hitting "Download Results" under each table, or by loading them into slots (equivalent to table rows) so that they appear on the Results Comparisons tab. If you are running multiple scenarios, we suggest saving the results to slots after running each scenario. You can save these by selecting your desired slot and clicking the "Save to Slot" button. This will populate your results into two tables on the Results Comparisons tab.
 
 ## Authors
