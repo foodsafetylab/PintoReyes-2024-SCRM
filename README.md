@@ -71,7 +71,9 @@ Install the required packages and RTools 4.3 (if needed). RStudio can detect req
 Click "Run App" (top right corner)
 
 #### Step 5.
-You will be launched into the SCRM Shiny app. To load and run the scenarios described in the manuscript go to the "Model" tab.
+You will be launched into the SCRM Shiny app. 
+
+To load and run the scenarios described in the manuscript go to the "Model" tab. For an explanation of all terms that appear on the "Model" tab, navigate to the "User Guide" tab > Glossary. 
 
 #### Step 6.
 Select from the list of Preset Scenarios. Preset Scenarios default to the high variability contamination system. To make steps appear for a preset scenario hit the "Load Scenario" button. The following table describes the preset scenario as it relates to description and any modifications which should need to be made to reproduce the results: 
@@ -84,19 +86,24 @@ Baseline |  Change "Initial Contamination" step (Step 01) SD to value of 0.2 | L
 FPT | Change "Initial Contamination" step (Step 01) SD to value of 0.2 | Low Variability, Additional Product Testing 
 Improved Process Controls | Change "Initial Contamination" step (Step 01) SD to value of 0.2 | Low Variability, Improved Process Controls 
 
+Note that the User Guide tab also explains the baseline scenario terminology for all the steps that are loaded. These explain each step of the baseline scenarios as described by the "Step Name" field in the model.
+
 #### Step 7.
-The default field mass will = 160,000; the default mass unit will = lb; the default iterations will = 100,000. Leave these defaults to reproduce the results of the manuscript.
+The default field mass will = 160,000; the default mass unit will = lb; the default iterations will = 100,000. Leave these defaults to reproduce the results of the manuscript. 
 
 #### Step 8. (optional)
 You can check the "beep" box if you would like your computer to make a sound once the model has completed running all iterations
 
 #### Step 9.
+**Reminder**: Double check that you have not inadvertently changed a value for each step. A warning is not tripped if a value is changed after you load a preset scenario. To cross-check the values, navigate to Table 1 of the manuscript for baseline scenarios and manuscript Materials and Methods section _Intervention Scenarios for Comparison_ for intervention scenarios.
+
 Click "Run". Depending on the scenario, you will be notified that there are step(s) present after at risk output test at retail (current model output). This was coded for future use of the model to force the user to check for errors. We parametrized a Consumer Handling stage in our manuscript, but this does not currently affect our decided location of the risk output test. However, these values are still pulled into our baseline. One could simply uncheck the Consumer Handling model step in the SCRM Shiny app to avoid this pop up error, or simply click "Continue." 
 
 A small pop-up will appear at the bottom right of the app once the model has began running. This pop up will let you know the model is running and provide a time stamp for the start.
 
 #### Step 10.
-After successfully running the model, a second small pop-up will appear at the bottom right of the app to notify you the model has completed running and a time stamp for which it finished. Your results will appear in 3 results tables at the top of the model tab. The first table summarizes the key results of the model: the overall risk of a positive test, and the number of highest risk lots. The second table shows the number of lots assigned to each risk category. Each iteration represents a simulated lot. This table also shows the overall risk. The third table shows the number of positive tests at retail for each risk category and the total number of positive tests at retail.
+After successfully running the model, a second small pop-up will appear at the bottom right of the app to notify you the model has completed running and a time stamp for which it finished. Your results will appear in 3 results tables at the top of the model tab. The first table summarizes the key results of the model: the overall risk of a positive test, and the number of highest risk lots. The second table shows the number of lots assigned to each risk category*. Each iteration represents a simulated lot. This table also shows the overall risk. The third table shows the number of positive tests at retail for each risk category and the total number of positive tests at retail.
+*see manuscript for explanation of risk categories, or navigate to the "User Guide" tab of the model > Glossary > Risk Category.
 
 #### Step 11.
 You can save results from a single run by hitting "Download Results" under each table, or by loading them into slots (equivalent to table rows) so that they appear on the Results Comparisons tab. If you are running multiple scenarios, we suggest saving the results to slots after running each scenario. You can save these by selecting your desired slot and clicking the "Save to Slot" button. This will populate your results into two tables on the Results Comparisons tab.
