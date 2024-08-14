@@ -21,7 +21,7 @@ Below describes how to run the SCRM-Lite. You will need to access the files in t
 Open the [SCRM-Lite R Project file](SCRM-Lite/SCRM-Lite.Rproj).
 
 #### Step 2.
-Open the R file titled "app.R"
+Open the [app R file](SCRM-Lite/app.R).
 
 #### Step 3.
 Install the required packages (if needed). RStudio can detect required packages and automatically install them if needed.
