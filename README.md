@@ -6,7 +6,7 @@ The Supply Chain Risk Model (SCRM) is a tool that was designed to evaluate how p
 
 Our initial test case for this model was a leafy green supply chain contaminated with Shiga-toxin-producing *E. coli* (STEC). The parameters of this supply chain are described in the paper and details around the parametrized values and distributions can also be found in the Supplemental Materials folder of this GitHub. We described two contamination scenarios (high and low variability) and two interventions added to the baseline system (improved process controls and additional product testing) to give a robust comparison between contamination variability and the tradeoffs between food safety interventions under these contamination scenarios. The base code for the SCRM described in the manuscript can be found here under the SCRM folder.
 
-To facilitate use of our model the SCRM-Lite was developed as an interactive webpage for users to explore the results of the scenarios described in our leafy green supply chain scenario. The code for the SCRM-lite can be found here under the SCRM-Lite folder
+To facilitate use of our model the SCRM-Lite was developed as an interactive webpage for users to explore the results of the scenarios described in our leafy green supply chain scenario. The code for the SCRM-Lite can be found here under the SCRM-Lite folder
 
 Below you will find a description of (i) how to run the SCRM-Lite to visualize the results presented in the manuscript and (ii) how to run the base code for the SCRM model and reproduce the results described in the manuscript.
 
