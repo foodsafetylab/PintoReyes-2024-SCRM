@@ -95,7 +95,7 @@ The default field mass will = 160,000; the default mass unit will = lb; the defa
 You can check the "beep" box if you would like your computer to make a sound once the model has completed running all iterations
 
 #### Step 9.
-@@ **Reminder** @@
+-**Reminder**
 Double check that you have not inadvertently changed a value for each step. A warning is not tripped if a value is changed after you load a preset scenario. To cross-check the values, navigate to Table 1 of the manuscript for baseline scenarios and manuscript Materials and Methods section _Intervention Scenarios for Comparison_ for intervention scenarios.
 
 Click "Run". Depending on the scenario, you will be notified that there are step(s) present after at risk output test at retail (current model output). This was coded for future use of the model to force the user to check for errors. We parametrized a Consumer Handling stage in our manuscript, but this does not currently affect our decided location of the risk output test. However, these values are still pulled into our baseline. One could simply uncheck the Consumer Handling model step in the SCRM Shiny app to avoid this pop up error, or simply click "Continue." 
