@@ -1051,7 +1051,7 @@ page_04 <- fluidPage(
 # UI ----
 ui <- navbarPage(
     theme = bs_theme(bootswatch = "flatly", version = 5),
-    title = "Supply Chain Risk Model (in R) - 2.1",
+    title = "Supply Chain Risk Model (in R) - 1.1",
     tabPanel("Model", page_01),
     tabPanel("Results Comparisions", page_02),
     tabPanel("User Guide", page_03),
