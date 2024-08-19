@@ -62,7 +62,7 @@ Below describes how to run the SCRM base code. You will need to access the files
 Open the [SCRM-Shiny R Project file](SCRM/SCRM-Shiny.Rproj).
 
 #### Step 2.
-Open the R file titled "[app - V2.1.R](<SCRM/app - V2.1.R>)"
+Open the R file titled "[app-V1.1.R](SCRM/app-V1.1.R)"
 
 #### Step 3.
 Install the required packages and RTools 4.3 (if needed). RStudio can detect required packages and automatically install them if needed.
