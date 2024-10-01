@@ -8,7 +8,7 @@ Our initial test case for this model was a leafy green supply chain contaminated
 
 To facilitate use of our model the SCRM-Lite was developed as an interactive webpage for users to explore the results of the scenarios described in our leafy green supply chain scenario. The code for the SCRM-Lite can be found here under the [SCRM-Lite](SCRM-Lite/) folder.
 
-Below you will find a description of (i) how to run the SCRM-Lite to visualize the results presented in the manuscript and (ii) how to run the base code for the SCRM model and reproduce the results described in the manuscript.
+Below you will find a description of (i) how to run the SCRM-Lite to visualize the results presented in the manuscript and (ii) how to run the base code for the SCRM model and reproduce the results described in the manuscript. For further instructions and how to launch these apps in R, please reference the EDITING [Shiny App Instructions file](Supplemental Materials/ in the 
 
 ## Usage - SCRM Lite
 ### Setup
